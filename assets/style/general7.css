@@ -1,0 +1,33 @@
+#R{
+    border: 1px solid black;    
+}
+.a{
+    background-color: green;
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+.b{
+    background-color: blue;
+    height: 200px;
+    width: 200px;    
+    float: left;
+}
+.c{
+    background-color: orange;
+    height: 200px;
+    clear: both;
+}
+.d{
+    background-color:yellow ;
+    height: 200px;
+    width: 200px;
+    float:right;
+}
+.e{
+    background-color:  gray;
+    height: 200px;
+    width: 200px;
+    float:right;
+    
+}

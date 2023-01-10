@@ -1,0 +1,23 @@
+#R{
+    border: 1px solid black;
+    margin: 20px auto;
+    padding: 30px; /* pour que le cadre des photos sois bien en mode poupée russe.*/
+}
+.a{
+    background-color: aqua;
+}
+.b{
+    position: absolute;
+    background-color: greenyellow;
+    left: 50%;
+
+}
+.c{
+    background-color:blueviolet;
+}
+.d{
+    background-color: orange;
+    position: absolute;
+    left: 60%;
+    top: 300px;
+}
