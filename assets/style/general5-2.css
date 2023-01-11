@@ -1,0 +1,42 @@
+#R{
+    border: 1px solid black;
+    margin: 20px auto;
+    padding: 30px; /* pour que le cadre des photos sois bien en mode poupée russe.*/
+}
+.a{
+    background-color: aqua;
+    width: 600px;
+    height: 600px;
+}
+.b{
+    position: relative;
+    background-color: greenyellow;
+    right: 25%;
+    bottom: 1%;
+    width: 200px;
+    height: 200px;
+}
+.c{
+    position: relative;
+    background-color:blueviolet;
+    left: 25%;
+    bottom: 48%;
+    width: 200px;
+    height: 200px;
+}
+.d{
+    position: relative;
+    background-color: orange;
+    right: 25%;
+    bottom: 46%;
+    width: 200px;
+    height: 200px;
+}
+.e{
+    position: relative;
+    background-color:yellow;
+    left: 25%;
+    bottom: 93%;
+    width: 200px;
+    height: 200px;
+}
